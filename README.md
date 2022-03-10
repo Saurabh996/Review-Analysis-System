@@ -1,2 +1,2 @@
 # Review-Analysis-System
-Model to filter and provide summary of reviews. Also has a model to recommend products based on past history.
+Model to filter and provide summary of reviews, and recommend product to users based on purchase history
